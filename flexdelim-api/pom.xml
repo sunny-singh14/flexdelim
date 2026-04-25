@@ -1,0 +1,10 @@
+<project>
+  <parent>
+    <groupId>io.flexdelim</groupId>
+    <artifactId>flexdelim</artifactId>
+    <version>0.1.0</version>
+  </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>flexdelim-api</artifactId>
+</project>
