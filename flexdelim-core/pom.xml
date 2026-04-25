@@ -1,0 +1,18 @@
+<project>
+  <parent>
+    <groupId>io.flexdelim</groupId>
+    <artifactId>flexdelim</artifactId>
+    <version>0.1.0</version>
+  </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>flexdelim-core</artifactId>
+
+  <dependencies>
+    <dependency>
+      <groupId>io.flexdelim</groupId>
+      <artifactId>flexdelim-api</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+  </dependencies>
+</project>
